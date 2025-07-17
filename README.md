@@ -1,5 +1,3 @@
-<p align="right"> <a href="https://twitter.com/ralacarcel" target="blank"><img src="https://img.shields.io/twitter/follow/ralacarcel?logo=twitter&style=for-the-badge" alt="ralacarcel" /></a> </p>
-
 <h3>Here we go again!</h3> 
 
 I never knew what to put in these bios... until I realized that they are like code comments, trying to explain something that only the person writing fully understands. <br><br>
@@ -27,3 +25,4 @@ I never knew what to put in these bios... until I realized that they are like co
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img  src="https://img.icons8.com/badges/48/git.png" alt="git" width="40" height="40"/> </a>
   <a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/badges/48/adobe-creative-cloud.png" alt="adobe-creative-cloud" width="40" height="40"/> </a>
 </p>
+<p align="right"> <a href="https://twitter.com/ralacarcel" target="blank"><img src="https://img.shields.io/twitter/follow/ralacarcel?logo=twitter&style=for-the-badge" alt="ralacarcel" /></a> </p>
