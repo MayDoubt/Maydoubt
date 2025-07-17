@@ -1,4 +1,3 @@
-![Hi, I'm Fernando Pérez](https://github.com/maydoubt/maydoubt/blob/main/img/banner_readme.png)
 <p align="right"> <a href="https://twitter.com/ralacarcel" target="blank"><img src="https://img.shields.io/twitter/follow/ralacarcel?logo=twitter&style=for-the-badge" alt="ralacarcel" /></a> </p>
 
 <h3>Here we go again!</h3> 
@@ -8,7 +7,7 @@ I never knew what to put in these bios... until I realized that they are like co
 
 - 🔭 I’m currently working on **NTTData**
 
-- 🌱 I’m currently learning **Astro and NextJS**
+- 🌱 I’m currently learning **React and WebComponents**
 
 - 📫 How to reach me **ferprz.contact@gmail.com**
 
